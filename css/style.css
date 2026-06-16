@@ -242,3 +242,18 @@ footer{
             0 20px 50px rgba(0,0,0,.35);
 
 }
+@media(max-width:900px){
+
+    .hero{
+        overflow:hidden;
+    }
+
+    .hero-image{
+        width:100%;
+    }
+
+    .slider{
+        max-width:100%;
+    }
+
+}
